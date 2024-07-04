@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">A Passionate Frontend Developer Enthusiast from India</h3>
+<h3 align="center">A Passionate React Native Developer Enthusiast from India</h3>
 <img align="right" alt="Web Developer" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*NVtHKj_psvX0lXcy4FVX7A.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b-himanshu19&label=Profile%20views&color=0e75b6&style=flat" alt="b-himanshu19" /> </p>
